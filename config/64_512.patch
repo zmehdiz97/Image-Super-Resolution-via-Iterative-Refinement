@@ -1,0 +1,13 @@
+--- sr_sr3_64_512_new.json	2021-10-22 16:20:20.901133618 +0000
++++ sr_sr3_64_512.json	2021-10-22 16:20:52.036081672 +0000
+@@ -9,8 +9,8 @@
+         "tb_logger": "tb_logger",
+         "results": "results",
+         "checkpoint": "checkpoint",
+-        "resume_state": null
+-        // "resume_state": "experiments/distributed_high_sr_ffhq_210901_121212/checkpoint/I830000_E32" //pretrain model or training state
++        // "resume_state": null
++        "resume_state": "I830000_E32" //pretrain model or training state
+     },
+     "datasets": {
+         "train": {
