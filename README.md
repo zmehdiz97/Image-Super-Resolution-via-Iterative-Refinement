@@ -21,4 +21,4 @@ method and to understand how they are applied to super-
 resolution in this paper (SR3).
 
 ![prediction example](https://github.com/zmehdiz97/Image-Super-Resolution-via-Iterative-Refinement/blob/main/misc/dog1.png)
-![prediction example](https://github.com/zmehdiz97/Image-Super-Resolution-via-Iterative-Refinement/blob/main/misc/dog2.png)
+
